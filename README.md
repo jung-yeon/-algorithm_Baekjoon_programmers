@@ -7,4 +7,4 @@
 ----------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-yeon&layout=compact)](https://github.com/jung-yeon/-algorithm_Baekjoon_programmers)<br>
 ## 주간 통계
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jung-yeon)](https://github.com/jung-yeon/-algorithm_Baekjoon_programmers)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jung-yeon)](https://github.com/anuraghazra/github-readme-stats)
