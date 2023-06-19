@@ -1,10 +1,10 @@
 # [unrated] 문자열 겹쳐쓰기 - 181943 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181943) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181943?language=java) 
 
 ### 성능 요약
 
-메모리: 10.2 MB, 시간: 0.00 ms
+메모리: 78 MB, 시간: 3.36 ms
 
 ### 구분
 
