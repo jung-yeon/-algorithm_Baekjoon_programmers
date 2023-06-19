@@ -6,5 +6,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lkjh764)](https://solved.ac/lkjh764)<br>
 ----------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-yeon&layout=compact)<br>
-## 주간 통계
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jung-yeon)
