@@ -5,5 +5,5 @@
 ## Baekjoon 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lkjh764)](https://solved.ac/lkjh764)<br>
 ----------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-yeon)](https://github.com/jung-yeon/-algorithm_Baekjoon_programmers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-yeon)](https://github.com/jung-yeon/-algorithm_Baekjoon_programmers)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jung-yeon&layout=compact)](https://github.com/jung-yeon/-algorithm_Baekjoon_programmers)
