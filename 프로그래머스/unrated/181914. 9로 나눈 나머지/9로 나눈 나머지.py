@@ -1,6 +1,6 @@
 def solution(number):
     answer = 0
-    # lst = list(map(int, str(number)))
-    number = int(number)
-    answer = number % 9
+    lst = list(map(int, str(number)))
+    answer = sum(lst)
+    answer = answer % 9
     return answer
