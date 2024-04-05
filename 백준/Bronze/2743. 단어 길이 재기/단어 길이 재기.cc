@@ -1,10 +1,11 @@
 #include <iostream>
+#include <cstring>
 using namespace std;
 
 int main() {
-	string str;
-	cin >> str;
+	char cArr[101]; 
+	cin >> cArr;
 
-	cout << str.length() << endl;
+	cout << strlen(cArr) << endl;
 	return 0;
 }
